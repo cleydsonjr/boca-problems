@@ -1,11 +1,5 @@
 #include <stdio.h>
-#include <math.h>
 
-/**
- * Resolução do problema1
- * Exercício 10
- * Aluno: Cleydson Figueiredo
- */
 int main() {
     int numero;
 

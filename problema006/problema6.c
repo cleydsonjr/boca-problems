@@ -1,10 +1,5 @@
 #include <stdio.h>
 
-/**
- * Resolução do problema1
- * Exercício 6
- * Aluno: Cleydson Figueiredo
- */
 int main() {
     double precoFabrica;
 

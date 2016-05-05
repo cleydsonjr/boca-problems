@@ -1,11 +1,6 @@
 #include <stdio.h>
 #include <math.h>
 
-/**
- * Resolução do problema1
- * Exercício 9
- * Aluno: Cleydson Figueiredo
- */
 int main() {
     int x1, x2, y1, y2;
 

@@ -1,12 +1,7 @@
 #include <stdio.h>
 
-/**
- * Resolução do problema1
- * Exercício 8
- * Aluno: Cleydson Figueiredo
- */
 int main() {
-    char *nome1[8], nome2[8], nome3[8];
+    char nome1[8], nome2[8], nome3[8];
 
     int idade1, idade2, idade3;
     double peso1, peso2, peso3;
