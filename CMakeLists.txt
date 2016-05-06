@@ -49,6 +49,7 @@ add_executable(problema19 problema019/problema19.c)
 add_executable(problema20 problema020/problema20.c)
 
 add_executable(problema21 problema021/problema21.c)
+target_link_libraries(problema21 m)
 
 add_executable(problema22 problema022/problema22.c)
 
